@@ -40,7 +40,7 @@ Hola, como estas
 ```
 Si queremos crear esto tenemos que poner ``` damos un espacion escribimos lo que queramos que se vea y luego lo cerramos 
 
-## recursos
+
 
 
 
